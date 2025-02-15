@@ -51,5 +51,5 @@ _(🔐 Available upon request.)_
 
 
 
-Thanks for stopping by! Feel free to explore my repositories, and reach out if you'd like to discuss potential collaborations or opportunities.
+Thanks for stopping by! Feel free to reach out if you'd like to see private repos and discuss potential collaborations or opportunities.
 
