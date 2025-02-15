@@ -42,7 +42,14 @@ _(🔐 Available upon request.)_
 
 ## 💡 What You'll Find Here
 ✔️ **Production-Ready Python Code** – CLI tools, APIs, automation scripts, and file processing solutions that have been built, tested and used on several productions.
+
 ✔️ **Real-World Applications** – Tools designed for **media production, metadata processing, and automation**.
+
+✔️ **Advanced Synchronization & Processing** – Scripts that mirror rsync functionality, automate video transcoding, and integrate with post-production tools like Nuke, DaVinci, and AVID.
+
+✔️ **Editorial & Workflow Automation** – Utilities that parse EDLs and convert them to OTIO for tracking editorial timeline changes and maintaining consistency between vfx shot usage and current timeline updates.
+
+
 
 Thanks for stopping by! Feel free to explore my repositories, and reach out if you'd like to discuss potential collaborations or opportunities.
 
